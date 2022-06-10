@@ -1,0 +1,7 @@
+1 Should show list of Posts
+2 In The  PostList Items are id, title and body 
+3 Sholud show  one button and one link for getting the post id Details
+4 onClicking any id in list show show that particular post id Details like title
+5 Should show  top twenty posts
+6 In Post List show link for commentList 
+7 On clicking comment list show id , postId, name  7 body oF COMMENTS

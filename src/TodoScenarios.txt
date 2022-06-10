@@ -1,0 +1,6 @@
+1. should show page title as My Tasks
+2. should show total count of tasks
+3. should show total count of completed tasks
+4. should show tasks list. Should show title of each task and id as subtitle
+5. should should strike out on title if task is completed.
+6. should show only top 10 tasks on UI.

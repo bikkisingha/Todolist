@@ -1,0 +1,17 @@
+1. check design
+2. write test scenarios
+3. check API status. 
+  1. API available
+  2. API mock response is available
+4. start development
+5. create PR and add proper description to PR 
+  1. add screenshots of design and implemented UI
+  2. add jira link
+  3. add description of the page
+  4. add everyone from UI team as a PR reviewer
+
+
+1. it should contain title as counter
+2. it should contain label as counte
+3. it should contain increase counter button
+4. it should increase counter value by 1 when click on increase counter button

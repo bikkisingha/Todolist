@@ -1,0 +1,4 @@
+.completed_text {
+  text-decoration: line-through;
+  color: #ff0000;
+}
